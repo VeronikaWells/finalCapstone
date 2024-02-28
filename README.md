@@ -1,8 +1,9 @@
 # finalCapstone
-Task manager
+# Task manager
+
 This is a program designed for a small business to help it manage tasks assigned to each member of a team.
 
-Table of contents
+Table of contents:
 1)Description
 2)Installation
 3)Usage
